@@ -7,3 +7,6 @@ Feature #3: **Smart-Indexing:** It indexes the selected course according to the 
 
 **State in the project:**
 I have used state in several different occassion in the project. State was first used to load the data and put it inside an array. Later State is used to update the time element, the selection list and the price element as the primary functions. I used a handleAddToSelections function to add the selected coursed in the list and thus funtionally using another state.
+
+deploy link- https://tranquil-madeleine-2aa8b4.netlify.app/
+
