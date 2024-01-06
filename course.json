@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/VxBSkwb/Rectangle-2.png",
+        "title": "Introduction to OOP Python",
+        "credit": 4,
+        "price": 19800,
+        "course_details": "Get started with object-oriented programming in Python."
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/34cnzYH/Rectangle-2-1.png",
+        "title": "Database (MySQL)",
+        "credit": 3,
+        "price": 22500,
+        "course_details": "Discover MySQL database management and SQL queries."
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/J3gSmH8/Rectangle-2-2.png",
+        "title": "Introduction to C Programming",
+        "credit": 4,
+        "price": 21000,
+        "course_details": "Learn the fundamentals of C programming language."
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/M89BhfN/Rectangle-2-3.png",
+        "title": "Introduction to C++ for DSA",
+        "credit": 3,
+        "price": 16700,
+        "course_details": "Master C++ for data structures and algorithms."
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/3NkZKJ0/Rectangle-2-4.png",
+        "title": "Introduction to Algorithms",
+        "credit": 2,
+        "price": 19800,
+        "course_details": "Explore algorithms and problem-solving techniques."
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/DGNVwpS/Rectangle-2-5.png",
+        "title": "Software Engineering",
+        "credit": 5,
+        "price": 24000,
+        "course_details": "Explore principles and practices of software engineering."
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/ZNpKMj5/Rectangle-2-6.png",
+        "title": "Problem-Solving Part",
+        "credit": 4,
+        "price": 17500,
+        "course_details": "Enhance your problem-solving skills with practical exercises."
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/q104p0b/Rectangle-3.png",
+        "title": "Basic Data Structures",
+        "credit": 3,
+        "price": 21300,
+        "course_details": "Learn essential data structures and their implementation."
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/SN1NdqG/Rectangle-3-1.png",
+        "title": "AWS, Cloud Computing",
+        "credit": 1,
+        "price": 19600,
+        "course_details": "Learn about AWS and cloud computing services."
+    }
+]
