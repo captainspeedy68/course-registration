@@ -8,6 +8,9 @@ Feature #3: **Smart-Indexing:** It indexes the selected course according to the 
 **State in the project:**
 I have used state in several different occassion in the project. State was first used to load the data and put it inside an array. Later State is used to update the time element, the selection list and the price element as the primary functions. I used a handleAddToSelections function to add the selected coursed in the list and thus funtionally using another state.
 
+
+the original commits exist in this private repository of programming hero course--
+
 course registration assignment link: https://github.com/programming-hero-web-course2/my-course-roster-captainspeedy68
 
 deploy link- https://tranquil-madeleine-2aa8b4.netlify.app/
